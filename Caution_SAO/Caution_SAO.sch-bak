@@ -1,0 +1,157 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Generic:Conn_02x03_Counter_Clockwise J?
+U 1 1 624CFBC6
+P 3750 4100
+F 0 "J?" H 3800 4417 50  0000 C CNN
+F 1 "Conn_02x03_Counter_Clockwise" H 3800 4326 50  0000 C CNN
+F 2 "" H 3750 4100 50  0001 C CNN
+F 3 "~" H 3750 4100 50  0001 C CNN
+	1    3750 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 624D0493
+P 3400 4000
+F 0 "#PWR?" H 3400 3850 50  0001 C CNN
+F 1 "VCC" V 3415 4127 50  0000 L CNN
+F 2 "" H 3400 4000 50  0001 C CNN
+F 3 "" H 3400 4000 50  0001 C CNN
+	1    3400 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 624D0D01
+P 3400 4100
+F 0 "#PWR?" H 3400 3850 50  0001 C CNN
+F 1 "GND" V 3405 3972 50  0000 R CNN
+F 2 "" H 3400 4100 50  0001 C CNN
+F 3 "" H 3400 4100 50  0001 C CNN
+	1    3400 4100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 624D17E5
+P 4750 4100
+F 0 "R?" H 4820 4146 50  0000 L CNN
+F 1 "R" H 4820 4055 50  0000 L CNN
+F 2 "" V 4680 4100 50  0001 C CNN
+F 3 "~" H 4750 4100 50  0001 C CNN
+	1    4750 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 624D1D93
+P 4750 3700
+F 0 "D?" V 4697 3780 50  0000 L CNN
+F 1 "LED" V 4788 3780 50  0000 L CNN
+F 2 "" H 4750 3700 50  0001 C CNN
+F 3 "~" H 4750 3700 50  0001 C CNN
+	1    4750 3700
+	0    1    1    0   
+$EndComp
+NoConn ~ 4050 4000
+NoConn ~ 4050 4100
+NoConn ~ 4050 4200
+NoConn ~ 3550 4200
+Wire Wire Line
+	3400 4000 3550 4000
+Wire Wire Line
+	3400 4100 3550 4100
+$Comp
+L power:VCC #PWR?
+U 1 1 624D2BAB
+P 4750 4350
+F 0 "#PWR?" H 4750 4200 50  0001 C CNN
+F 1 "VCC" V 4765 4477 50  0000 L CNN
+F 2 "" H 4750 4350 50  0001 C CNN
+F 3 "" H 4750 4350 50  0001 C CNN
+	1    4750 4350
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 624D3CCB
+P 4750 3450
+F 0 "#PWR?" H 4750 3200 50  0001 C CNN
+F 1 "GND" V 4755 3322 50  0000 R CNN
+F 2 "" H 4750 3450 50  0001 C CNN
+F 3 "" H 4750 3450 50  0001 C CNN
+	1    4750 3450
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4750 3450 4750 3550
+Wire Wire Line
+	4750 3850 4750 3950
+Wire Wire Line
+	4750 4250 4750 4350
+$Comp
+L Device:R R?
+U 1 1 624D851C
+P 5150 4100
+F 0 "R?" H 5220 4146 50  0000 L CNN
+F 1 "R" H 5220 4055 50  0000 L CNN
+F 2 "" V 5080 4100 50  0001 C CNN
+F 3 "~" H 5150 4100 50  0001 C CNN
+	1    5150 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 624D8522
+P 5150 3700
+F 0 "D?" V 5097 3780 50  0000 L CNN
+F 1 "LED" V 5188 3780 50  0000 L CNN
+F 2 "" H 5150 3700 50  0001 C CNN
+F 3 "~" H 5150 3700 50  0001 C CNN
+	1    5150 3700
+	0    1    1    0   
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 624D8528
+P 5150 4350
+F 0 "#PWR?" H 5150 4200 50  0001 C CNN
+F 1 "VCC" V 5165 4477 50  0000 L CNN
+F 2 "" H 5150 4350 50  0001 C CNN
+F 3 "" H 5150 4350 50  0001 C CNN
+	1    5150 4350
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 624D852E
+P 5150 3450
+F 0 "#PWR?" H 5150 3200 50  0001 C CNN
+F 1 "GND" V 5155 3322 50  0000 R CNN
+F 2 "" H 5150 3450 50  0001 C CNN
+F 3 "" H 5150 3450 50  0001 C CNN
+	1    5150 3450
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5150 3450 5150 3550
+Wire Wire Line
+	5150 3850 5150 3950
+Wire Wire Line
+	5150 4250 5150 4350
+$EndSCHEMATC

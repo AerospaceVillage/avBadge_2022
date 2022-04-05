@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name sr-71)(type KiCad)(uri ${KIPRJMOD}/sr-71.pretty)(options "")(descr ""))
+  (lib (name sunled)(type KiCad)(uri ${KIPRJMOD}/sunled.pretty)(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri /home/dan/Documents/Programming/digikey/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name Battery)(type KiCad)(uri /home/dan/Documents/Programming/kicad_libraries/kicad-footprints/Battery.pretty)(options "")(descr ""))
+  (lib (name Connector_PinHeader_2.54mm)(type KiCad)(uri /home/dan/Documents/Kicad/Connector_PinHeader_2.54mm.pretty)(options "")(descr ""))
+)

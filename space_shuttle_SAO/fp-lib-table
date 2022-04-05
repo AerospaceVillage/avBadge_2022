@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name space_shuttle_SAO)(type KiCad)(uri ${KIPRJMOD}/space_shuttle_SAO.pretty)(options "")(descr ""))
+  (lib (name sunled)(type KiCad)(uri /home/dan/Documents/Personal/aerospace/avBadge_2021/kicad/libraries/sunled.pretty)(options "")(descr ""))
+)
