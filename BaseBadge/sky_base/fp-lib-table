@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "SpaceBase_Library")(type "KiCad")(uri "/Users/danallen/Desktop/Defcon/AV_Volunteer/avBadge_2022/BaseBadge/SpaceBase_Library.pretty")(options "")(descr "")(disabled))
+  (lib (name "Base_Library")(type "KiCad")(uri "/Users/danallen/Desktop/Defcon/AV_Volunteer/avBadge_2022/BaseBadge/Base_Library.pretty")(options "")(descr ""))
+)

@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name sunled)(type KiCad)(uri /Users/danallen/Desktop/Defcon/AV_Volunteer/avBadge_2022/libraries/sunled.pretty)(options "")(descr ""))
+  (lib (name sunled)(type KiCad)(uri /Users/danallen/Desktop/Defcon/AV_Volunteer/avBadge_2022/libraries/sunled.pretty)(options "")(descr "")(disabled))
+  (lib (name Images)(type KiCad)(uri ${KIPRJMOD}/Images)(options "")(descr ""))
 )
