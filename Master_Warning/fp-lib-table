@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name sunled)(type KiCad)(uri /Users/danallen/Desktop/Defcon/AV_Volunteer/avBadge_2022/libraries/sunled.pretty)(options "")(descr ""))
-  (lib (name Master_Warning)(type KiCad)(uri /Users/danallen/Desktop/Defcon/AV_Volunteer/avBadge_2022/Master_Warning)(options "")(descr ""))
-)
