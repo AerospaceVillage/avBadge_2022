@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "(6.0.4-0)"
     },
-    "CreationDate": "2022-04-25T17:15:56-04:00"
+    "CreationDate": "2022-05-11T16:52:42-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "BaseBadge",
       "GUID": "42617365-4261-4646-9765-2e6b69636164",
-      "Revision": "rev?"
+      "Revision": "v02"
     },
     "Size": {
-      "X": 5.18,
-      "Y": 5.18
+      "X": 130.0002,
+      "Y": 83.0212
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,

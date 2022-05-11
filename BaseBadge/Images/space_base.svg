@@ -24,12 +24,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.90583672"
-     inkscape:cx="383.62322"
-     inkscape:cy="444.34056"
+     inkscape:cx="484.08283"
+     inkscape:cy="444.34057"
      inkscape:window-width="1312"
-     inkscape:window-height="941"
+     inkscape:window-height="913"
      inkscape:window-x="305"
-     inkscape:window-y="90"
+     inkscape:window-y="62"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer3" />
   <defs
@@ -40,10 +40,11 @@
      inkscape:label="Edge.Cuts"
      style="display:inline">
     <path
-       class="cls-1"
-       d="m 160.78354,130.86114 v 13.84035 H 44.049382 v -12.85346 0 q 0,-0.45508 0,-0.91281 c 0,-33.54917 26.127604,-60.735107 58.361788,-60.735107 32.23419,0 58.31946,27.151542 58.36179,60.661027 z"
        id="path13"
-       style="display:inline;stroke:#ffffff;stroke-width:0.132292px;stroke-miterlimit:10" />
+       style="display:inline;stroke:#ffffff;stroke-width:0.556192px;stroke-miterlimit:10"
+       class="cls-1"
+       d="m 411.88281,265.35156 c -44.90085,0 -86.97676,12.55544 -123.17969,34.46485 a 34.943999,34.943999 0 0 0 -22.57617,-8.27539 34.943999,34.943999 0 0 0 -34.94531,34.94531 34.943999,34.943999 0 0 0 4.29492,16.73633 C 192.78879,389.1646 166.51367,451.729 166.51367,520.69922 v 3.83594 54.04101 h 490.78321 v -58.18945 h -0.0449 C 657.07398,379.50366 547.4042,265.35156 411.88281,265.35156 Z"
+       transform="scale(0.26458333)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -52,15 +53,15 @@
      style="display:inline">
     <circle
        class="cls-2"
-       cx="69.421936"
-       cy="85.392067"
-       r="8.2550001"
-       id="circle15"
-       style="display:inline;fill:#ffffff;stroke-width:0.264583" />
+       cx="70.412537"
+       cy="86.382668"
+       r="9.2455997"
+       id="circle15-8"
+       style="display:inline;fill:#ffffff;stroke-width:0.296333" />
     <g
        id="g687"
        style="fill:#fffffc;stroke:#fffff7"
-       transform="matrix(0.26458333,0,0,0.26458333,43.785814,72.494437)">
+       transform="matrix(0.29633333,0,0,0.29633333,42.512272,72.014714)">
       <g
          id="path17"
          class="cls-2">

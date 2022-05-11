@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "(6.0.4-0)"
     },
-    "CreationDate": "2022-04-25T17:13:00-04:00"
+    "CreationDate": "2022-05-11T16:30:09-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "sky_base",
       "GUID": "736b795f-6261-4736-952e-6b696361645f",
-      "Revision": "rev?"
+      "Revision": "v02"
     },
     "Size": {
-      "X": 107.2265,
-      "Y": 43.8154
+      "X": 120.0937,
+      "Y": 49.0733
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,

@@ -53,7 +53,7 @@
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
       (disableapertmacros false)
-      (usegerberextensions false)
+      (usegerberextensions true)
       (usegerberattributes true)
       (usegerberadvancedattributes true)
       (creategerberjobfile true)
@@ -692,11 +692,11 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "svg2mod" (at 0 -144.59297) (layer "B.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3048)) (justify mirror))
-      (tstamp c3bb7247-5701-439e-ad98-3a2dc92fee40)
+      (tstamp 912d29b0-f9b5-4f10-a8b1-5615ddee60d2)
     )
     (fp_text value "G***" (at 0 -162.77635) (layer "B.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3048)) (justify mirror))
-      (tstamp 8f564582-deef-4611-a656-cea28a9f34d1)
+      (tstamp b085cd26-275f-4f10-a0c4-3cd952868d37)
     )
     (fp_poly (pts
         (xy 5.344321 4.42826)
@@ -1101,7 +1101,7 @@
         (xy 5.517779 4.40748)
         (xy 5.344267 4.42878)
         (xy 5.344321 4.42826)
-      ) (layer "B.SilkS") (width 0) (fill solid) (tstamp 5a5cba80-31b0-4a99-91e7-6f8312971bfa))
+      ) (layer "B.SilkS") (width 0) (fill solid) (tstamp a668077f-9d05-4812-8b1c-c07a07e6fb80))
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" (layer "B.Cu")

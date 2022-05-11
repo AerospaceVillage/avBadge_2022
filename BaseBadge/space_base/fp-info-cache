@@ -1,4 +1,4 @@
-20190779422801750
+20205646138670275
 2479_battery_holder
 2479
 
@@ -20,6 +20,55 @@ audio belton reverb
 0
 7
 7
+Base_Library
+APTR3216-VFX
+
+
+0
+2
+2
+Base_Library
+earth_base
+Converted using: svg2mod -i earth_base.svg
+svg2mod
+0
+0
+0
+Base_Library
+sky2ground_connector
+
+
+0
+6
+6
+Base_Library
+sky_base
+Converted using: svg2mod -i sky_base.svg
+svg2mod
+0
+0
+0
+Base_Library
+space2sky_connector
+
+
+0
+6
+6
+Base_Library
+spaceBase_connector
+
+
+0
+6
+6
+Base_Library
+space_base
+Converted using: svg2mod -i space_base.svg
+svg2mod
+0
+0
+0
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -79134,41 +79183,6 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
-SpaceBase_Library
-sky2ground_connector
-
-
-0
-6
-6
-SpaceBase_Library
-sky_base
-Converted using: svg2mod -i sky_base.svg
-svg2mod
-0
-0
-0
-SpaceBase_Library
-space2sky_connector
-
-
-0
-6
-6
-SpaceBase_Library
-spaceBase_connector
-
-
-0
-6
-6
-SpaceBase_Library
-space_base
-Converted using: svg2mod -i space_base.svg
-svg2mod
-0
-0
-0
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
@@ -85715,12 +85729,26 @@ FSMCTTR
 4
 4
 aerospace_badge
+SMT_Tooling_hole
+
+
+0
+0
+0
+aerospace_badge
 SOT-23-NPN
 SOT-23, Standard
 SOT-23
 0
 3
 3
+aerospace_badge
+aerospace_logo_new
+Converted using: svg2mod -i aerospace_logo_new.svg
+svg2mod
+0
+0
+0
 aerospace_badge
 artboard
 Converted using: svg2mod -i artboard.svg -o artboard
@@ -85750,6 +85778,20 @@ attiny84
 14
 14
 aerospace_badge
+bcbp_badge
+Converted using: svg2mod -i bcbp_badge.svg
+svg2mod
+0
+0
+0
+aerospace_badge
+bcbp_example_poc
+Converted using: svg2mod -i bcbp_example_poc.svg
+svg2mod
+0
+0
+0
+aerospace_badge
 led_in-s124ar
 
 
@@ -85771,6 +85813,20 @@ serialConnector
 3
 3
 aerospace_badge
+sky_base
+Converted using: svg2mod -i sky_base.svg
+svg2mod
+0
+0
+0
+aerospace_badge
+space_base
+Converted using: svg2mod -i space_base.svg
+svg2mod
+0
+0
+0
+aerospace_badge
 space_shuttle_proper
 Converted using: svg2mod -i space_shuttle_proper.svg -o space_shuttle_proper -p 1
 svg2mod
@@ -85784,3 +85840,10 @@ switch_JS202011SCQN
 0
 6
 3
+aerospace_badge
+warning
+Converted using: svg2mod -i warning.svg
+svg2mod
+0
+0
+0
