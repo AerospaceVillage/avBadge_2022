@@ -1,2 +1,27 @@
+# MacOS files
+.DS_Store?
+*.DS_Store
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+ehthumbs.db
+Icon?
+Thumbs.db
 
-.DS_Store
+# temporary KiCad files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
