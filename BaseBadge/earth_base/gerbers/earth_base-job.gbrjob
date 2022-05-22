@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "(6.0.4-0)"
     },
-    "CreationDate": "2022-04-25T17:07:08-04:00"
+    "CreationDate": "2022-05-21T09:58:13-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "earth_base",
       "GUID": "65617274-685f-4626-9173-652e6b696361",
-      "Revision": "rev?"
+      "Revision": "v03"
     },
     "Size": {
-      "X": 57.5009,
-      "Y": 18.525
+      "X": 64.401,
+      "Y": 20.748
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -27,7 +27,7 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.25,
+      "MinLineWidth": 0.254,
       "TrackToRegion": 0.508,
       "RegionToRegion": 0.508
     }

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/danallen/Desktop/Defcon/AV_Volunteer/avBadge_2022/BaseBadge/space_base/BaseBadge.kicad_sch</source>
+    <date>Tuesday, May 10, 2022 at 09:45:41 PM</date>
+    <tool>Eeschema (6.0.4-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BaseBadge.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BT1">
+      <value>Battery_Cell</value>
+      <footprint>2479_battery_holder:2479</footprint>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BaseBadge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88d43bbc-ed48-4ca1-a2c7-738d24a2ecef</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>10uf</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BaseBadge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c6bb6a0-172b-447e-9571-baee709e78a9</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10uf</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BaseBadge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>265998fd-050c-47d6-8e50-96b763fcbc0d</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_02x03_Counter_Clockwise</value>
+      <footprint>SpaceBase_Library:space2sky_connector</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Counter_Clockwise" description="Generic connector, double row, 02x03, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BaseBadge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7025567-2ee0-49d0-b306-ca6e7bcc920e</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_02x03_Counter_Clockwise</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Counter_Clockwise" description="Generic connector, double row, 02x03, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BaseBadge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fffb586-b915-45cc-a9a2-02cc516bb571</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_02x03_Counter_Clockwise</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Counter_Clockwise" description="Generic connector, double row, 02x03, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BaseBadge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ba3e338-9465-4844-8361-6715d7885c15</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_SPDT</value>
+      <footprint>aerospace_badge:switch_JS202011SCQN</footprint>
+      <libsource lib="Switch" part="SW_SPDT" description="Switch, single pole double throw"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BaseBadge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbeb4758-2d88-449c-a139-6d130c88e4f6</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ATtiny85-20S</value>
+      <footprint>Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf</datasheet>
+      <libsource lib="MCU_Microchip_ATtiny" part="ATtiny85-20S" description="20MHz, 8kB Flash, 512B SRAM, 512B EEPROM, debugWIRE, SOIC-8W"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BaseBadge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>facb0614-068b-4c9c-a466-d374df96a94c</tstamps>
+    </comp>
+    <comp ref="VR1">
+      <value>HT7533-1</value>
+      <footprint>Package_TO_SOT_SMD:SOT-89-3</footprint>
+      <libsource lib="avBadge_2022" part="HT7533-1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BaseBadge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bec0bb43-fff0-4d8e-8aef-298265b33d79</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_02x03_Counter_Clockwise">
+      <description>Generic connector, double row, 02x03, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x03_Counter_Clockwise</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Microchip_ATtiny" part="ATtiny85-20S">
+      <description>20MHz, 8kB Flash, 512B SRAM, 512B EEPROM, debugWIRE, SOIC-8W</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf</docs>
+      <footprints>
+        <fp>SOIC*5.3x5.3mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATtiny85-20S</field>
+        <field name="Footprint">Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{RESET}/PB5" type="bidirectional"/>
+        <pin num="2" name="XTAL1/PB3" type="bidirectional"/>
+        <pin num="3" name="XTAL2/PB4" type="bidirectional"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="AREF/PB0" type="bidirectional"/>
+        <pin num="6" name="PB1" type="bidirectional"/>
+        <pin num="7" name="PB2" type="bidirectional"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPDT">
+      <description>Switch, single pole double throw</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPDT</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="avBadge_2022" part="HT7533-1">
+      <fields>
+        <field name="Reference">VR</field>
+        <field name="Value">HT7533-1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="Vin" type="input"/>
+        <pin num="3" name="Vout" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="MCU_Microchip_ATtiny">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//MCU_Microchip_ATtiny.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Switch.kicad_sym</uri>
+    </library>
+    <library logical="avBadge_2022">
+      <uri>/Users/danallen/Desktop/Defcon/AV_Volunteer/avBadge_2022/libraries/avBadge_2022.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="VR1" pin="1" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="2" name="Net-(BT1-Pad1)">
+      <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="VR1" pin="2" pinfunction="Vin" pintype="input"/>
+    </net>
+    <net code="4" name="Net-(J1-Pad3)">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="AREF/PB0" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="Net-(J1-Pad4)">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="Net-(J1-Pad5)">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="Net-(J1-Pad6)">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="XTAL1/PB3" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="VCC">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="VR1" pin="3" pinfunction="Vout" pintype="input"/>
+    </net>
+    <net code="9" name="unconnected-(SW1-Pad3)">
+      <node ref="SW1" pin="3" pinfunction="C" pintype="passive+no_connect"/>
+    </net>
+    <net code="10" name="unconnected-(U1-Pad1)">
+      <node ref="U1" pin="1" pinfunction="~{RESET}/PB5" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="unconnected-(U1-Pad3)">
+      <node ref="U1" pin="3" pinfunction="XTAL2/PB4" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>

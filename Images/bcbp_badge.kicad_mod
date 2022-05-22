@@ -1,0 +1,10 @@
+(module svg2mod (layer F.Cu) (tedit 627C0D6D)
+  (attr virtual)
+  (descr "Converted using: svg2mod --debug -v --format latest -c -i bcbp_badge.svg")
+  (tags svg2mod)
+  (fp_text reference svg2mod (at 0 -12.641020000000143) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3048)))
+  )
+  (fp_text value G*** (at 0 12.641020000000143) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3048)))
+  )

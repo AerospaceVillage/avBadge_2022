@@ -1,4 +1,4 @@
-20171386579433577
+20207329906882453
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,13 @@ audio belton reverb
 0
 7
 7
+Base_Library
+19-213_Y2C-CO2R2L_3T(CY)
+
+
+0
+2
+2
 Base_Library
 APTR3216-VFX
 
@@ -85700,3 +85707,150 @@ varistor SIOV
 0
 2
 2
+aerospace_badge
+AVR-ISP-6
+6-lead dip package, row spacing 7.62 mm (300 mils)
+dil dip 2.54 300
+0
+6
+6
+aerospace_badge
+BHX2-2032
+
+
+0
+3
+2
+aerospace_badge
+FSMCTTR
+
+
+0
+4
+4
+aerospace_badge
+NCD0805W2
+
+
+0
+2
+2
+aerospace_badge
+SMT_Tooling_hole
+
+
+0
+0
+0
+aerospace_badge
+SOT-23-NPN
+SOT-23, Standard
+SOT-23
+0
+3
+3
+aerospace_badge
+aerospace_logo_new
+Converted using: svg2mod -i aerospace_logo_new.svg
+svg2mod
+0
+0
+0
+aerospace_badge
+artboard
+Converted using: svg2mod -i artboard.svg -o artboard
+svg2mod
+0
+5
+4
+aerospace_badge
+artboard2
+Converted using: svg2mod -i artboard_smooth.svg -o artboard_smooth -p 2
+svg2mod
+0
+0
+0
+aerospace_badge
+artboard_smooth2
+Converted using: svg2mod -i artboard_smooth.svg -o artboard_smooth2 -p 1
+svg2mod
+0
+5
+4
+aerospace_badge
+attiny84
+
+
+0
+14
+14
+aerospace_badge
+bcbp_badge
+Converted using: svg2mod -i bcbp_badge.svg
+svg2mod
+0
+0
+0
+aerospace_badge
+bcbp_example_poc
+Converted using: svg2mod -i bcbp_example_poc.svg
+svg2mod
+0
+0
+0
+aerospace_badge
+led_in-s124ar
+
+
+0
+2
+2
+aerospace_badge
+qrc
+
+
+0
+0
+0
+aerospace_badge
+serialConnector
+
+
+0
+3
+3
+aerospace_badge
+sky_base
+Converted using: svg2mod -i sky_base.svg
+svg2mod
+0
+0
+0
+aerospace_badge
+space_base
+Converted using: svg2mod -i space_base.svg
+svg2mod
+0
+0
+0
+aerospace_badge
+space_shuttle_proper
+Converted using: svg2mod -i space_shuttle_proper.svg -o space_shuttle_proper -p 1
+svg2mod
+0
+0
+0
+aerospace_badge
+switch_JS202011SCQN
+
+
+0
+6
+3
+aerospace_badge
+warning
+Converted using: svg2mod -i warning.svg
+svg2mod
+0
+0
+0

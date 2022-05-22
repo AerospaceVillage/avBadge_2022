@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,LCSC Part Number
+10uf,"C1, C2",Capacitor_SMD:C_0805_2012Metric,C15850
+SW_SPDT,SW1,aerospace_badge:switch_JS202011SCQN,C221666
+HT7333-A,VR1,Package_TO_SOT_SMD:SOT-89-3,C21583

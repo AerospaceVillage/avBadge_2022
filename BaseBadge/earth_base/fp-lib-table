@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "Base_Library")(type "KiCad")(uri "/Users/danallen/Desktop/Defcon/AV_Volunteer/avBadge_2022/BaseBadge/Base_Library.pretty")(options "")(descr ""))
+  (lib (name "aerospace_badge")(type "KiCad")(uri "/Users/danallen/Desktop/Defcon/AV_Volunteer/avBadge_2022/libraries/aerospace_badge.pretty")(options "")(descr ""))
 )

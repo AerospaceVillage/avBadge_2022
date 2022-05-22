@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "avBadge_symbols")(type "Legacy")(uri "/Users/danallen/Desktop/Defcon/AV_Volunteer/avBadge_2022/libraries/avBadge_symbols.lib")(options "")(descr ""))
+  (lib (name "avBadge_2022")(type "KiCad")(uri "/Users/danallen/Desktop/Defcon/AV_Volunteer/avBadge_2022/libraries/avBadge_2022.kicad_sym")(options "")(descr ""))
+)
