@@ -960,16 +960,16 @@
       (reference "#PWR012") (unit 1) (value "VCC") (footprint "")
     )
     (path "/6ad5c8e3-405d-4457-b239-10abb6e3be61"
-      (reference "D1") (unit 1) (value "LED") (footprint "Base_Library:19-213_Y2C-CO2R2L_3T(CY)")
+      (reference "D1") (unit 1) (value "LED") (footprint "aerospace_badge:NCD0805W2")
     )
     (path "/20095479-8387-4c2a-81af-72dd0a3c8d74"
-      (reference "D2") (unit 1) (value "LED") (footprint "Base_Library:19-213_Y2C-CO2R2L_3T(CY)")
+      (reference "D2") (unit 1) (value "LED") (footprint "aerospace_badge:NCD0805W2")
     )
     (path "/6d713df6-86c3-4714-b3aa-4d0895fe5cf0"
-      (reference "D3") (unit 1) (value "LED") (footprint "Base_Library:19-213_Y2C-CO2R2L_3T(CY)")
+      (reference "D3") (unit 1) (value "LED") (footprint "aerospace_badge:NCD0805W2")
     )
     (path "/25b042b4-fb53-4dfb-be34-9dd5a92f841c"
-      (reference "D4") (unit 1) (value "LED") (footprint "Base_Library:19-213_Y2C-CO2R2L_3T(CY)")
+      (reference "D4") (unit 1) (value "LED") (footprint "aerospace_badge:NCD0805W2")
     )
     (path "/6995beeb-7854-4705-ae35-78174cb5e8c5"
       (reference "J1") (unit 1) (value "Conn_02x03_Counter_Clockwise") (footprint "Base_Library:sky2ground_connector")
