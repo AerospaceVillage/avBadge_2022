@@ -40,7 +40,7 @@
   (setup
     (pad_to_mask_clearance 0)
     (pcbplotparams
-      (layerselection 0x00000fc_ffffffff)
+      (layerselection 0x00010fc_ffffffff)
       (disableapertmacros false)
       (usegerberextensions true)
       (usegerberattributes false)
@@ -1119,7 +1119,7 @@
   (gr_text "jlcjlcjlcjlc" (at 127 66.04) (layer "B.SilkS") (tstamp 26c50088-80ff-43fa-a13b-801600e7555b)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "@pubs" (at 127 63.5) (layer "B.SilkS") (tstamp 31e8e591-b069-4d14-81fb-1e93e03fe645)
+  (gr_text "@av_pubs" (at 127 68.58) (layer "B.SilkS") (tstamp 31e8e591-b069-4d14-81fb-1e93e03fe645)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "AV@DC30" (at 127 73) (layer "F.SilkS") (tstamp 99332785-d9f1-4363-9377-26ddc18e6d2c)
