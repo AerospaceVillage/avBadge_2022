@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "(6.0.4-0)"
     },
-    "CreationDate": "2022-05-11T16:52:42-04:00"
+    "CreationDate": "2022-05-26T17:50:35-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "BaseBadge",
       "GUID": "42617365-4261-4646-9765-2e6b69636164",
-      "Revision": "v02"
+      "Revision": "v03"
     },
     "Size": {
       "X": 130.0002,
@@ -27,7 +27,7 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.254,
+      "MinLineWidth": 0.25,
       "TrackToRegion": 0.508,
       "RegionToRegion": 0.508
     }

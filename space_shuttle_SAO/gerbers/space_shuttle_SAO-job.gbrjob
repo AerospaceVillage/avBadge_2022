@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "(6.0.4-0)"
     },
-    "CreationDate": "2022-05-22T15:15:47-04:00"
+    "CreationDate": "2022-05-26T18:37:45-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "space_shuttle_SAO",
       "GUID": "73706163-655f-4736-9875-74746c655f53",
-      "Revision": "v03"
+      "Revision": "v04"
     },
     "Size": {
       "X": 80.1002,
