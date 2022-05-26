@@ -1,4 +1,4 @@
-20205646138670275
+20210606560998037
 2479_battery_holder
 2479
 
@@ -20,6 +20,13 @@ audio belton reverb
 0
 7
 7
+Base_Library
+19-213_Y2C-CO2R2L_3T(CY)
+
+
+0
+2
+2
 Base_Library
 APTR3216-VFX
 
@@ -85729,6 +85736,13 @@ FSMCTTR
 4
 4
 aerospace_badge
+NCD0805W2
+
+
+0
+2
+2
+aerospace_badge
 SMT_Tooling_hole
 
 
@@ -85787,6 +85801,13 @@ svg2mod
 aerospace_badge
 bcbp_example_poc
 Converted using: svg2mod -i bcbp_example_poc.svg
+svg2mod
+0
+0
+0
+aerospace_badge
+defcon_30_logo
+Converted using: svg2mod -p .1 -i defcon_30_logo.svg
 svg2mod
 0
 0
