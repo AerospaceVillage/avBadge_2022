@@ -7,8 +7,8 @@
   (paper "A4")
   (title_block
     (title "Aerospace Village Base Badge 2022")
-    (date "2022-05-26")
-    (rev "v03")
+    (date "2022-06-01")
+    (rev "v04")
     (company "Author: Dan Allen")
   )
 
@@ -10754,19 +10754,6 @@
       (xy 134.160045 77.244446)
       (xy 134.211414 77.193077)
     ) (layer "B.SilkS") (width 0) (fill solid) (tstamp 04f8b7ec-6b20-46eb-add5-5d764d1d3dc8))
-  (gr_poly
-    (pts
-      (xy 157.790069 66.822655)
-      (xy 157.616691 67.007824)
-      (xy 157.443321 67.192993)
-      (xy 157.385528 67.197693)
-      (xy 157.385452 67.197708)
-      (xy 157.327659 67.202408)
-      (xy 157.331962 67.144619)
-      (xy 157.336265 67.08683)
-      (xy 157.563171 66.907601)
-      (xy 157.790069 66.728367)
-    ) (layer "B.SilkS") (width 0) (fill solid) (tstamp 052d65f0-b14f-49df-b6da-65efd3c371c7))
   (gr_poly
     (pts
       (xy 130.872375 78.169373)
@@ -22701,6 +22688,15 @@
     ) (layer "B.SilkS") (width 0) (fill solid) (tstamp 57ffdc69-fb22-42de-9d2f-a6a8077d1148))
   (gr_poly
     (pts
+      (xy 158.098289 67.279454)
+      (xy 158.064308 67.279454)
+      (xy 158.030342 67.279343)
+      (xy 157.982719 67.202294)
+      (xy 157.935096 67.125233)
+      (xy 158.098289 67.125233)
+    ) (layer "B.SilkS") (width 0) (fill solid) (tstamp 5805d656-927a-4296-aa49-a0ba3d7b6fe1))
+  (gr_poly
+    (pts
       (xy 157.63594 55.336659)
       (xy 157.558883 55.336659)
       (xy 157.558883 55.259602)
@@ -30032,13 +30028,6 @@
       (xy 137.692646 75.341919)
       (xy 137.667885 75.25399)
     ) (layer "B.SilkS") (width 0) (fill solid) (tstamp 8a1a5a1c-bd19-4a0c-a8ec-87d256e9a653))
-  (gr_poly
-    (pts
-      (xy 155.94075 67.202412)
-      (xy 155.863693 67.202412)
-      (xy 155.863693 67.125355)
-      (xy 155.94075 67.125355)
-    ) (layer "B.SilkS") (width 0) (fill solid) (tstamp 8a1d0f5e-1929-482e-a261-391a785c8167))
   (gr_poly
     (pts
       (xy 150.803875 76.294037)
@@ -42445,6 +42434,19 @@
     ) (layer "B.SilkS") (width 0) (fill solid) (tstamp e49cd656-edd7-4c50-87d4-321342105d60))
   (gr_poly
     (pts
+      (xy 157.790069 66.822655)
+      (xy 157.616691 67.007824)
+      (xy 157.443321 67.192993)
+      (xy 157.385528 67.197693)
+      (xy 157.385452 67.197708)
+      (xy 157.327659 67.202408)
+      (xy 157.331962 67.144619)
+      (xy 157.336265 67.08683)
+      (xy 157.563171 66.907601)
+      (xy 157.790069 66.728367)
+    ) (layer "B.SilkS") (width 0) (fill solid) (tstamp e4c8997f-0e4e-473d-84d3-edfc0a922603))
+  (gr_poly
+    (pts
       (xy 139.68227 71.773735)
       (xy 139.630901 71.722367)
       (xy 139.579532 71.670998)
@@ -43705,15 +43707,6 @@
     ) (layer "B.SilkS") (width 0) (fill solid) (tstamp eb8f7ae8-70cd-4313-8212-c9b9729b9289))
   (gr_poly
     (pts
-      (xy 158.098289 67.279454)
-      (xy 158.064308 67.279454)
-      (xy 158.030342 67.279343)
-      (xy 157.982719 67.202294)
-      (xy 157.935096 67.125233)
-      (xy 158.098289 67.125233)
-    ) (layer "B.SilkS") (width 0) (fill solid) (tstamp eb960c21-8fd4-4d92-8014-0939dd8b4c3f))
-  (gr_poly
-    (pts
       (xy 133.363815 77.989884)
       (xy 133.286758 77.989884)
       (xy 133.286758 77.912827)
@@ -44384,6 +44377,13 @@
       (xy 157.096626 81.457016)
       (xy 157.173683 81.457016)
     ) (layer "B.SilkS") (width 0) (fill solid) (tstamp f0e1aa98-b9d4-46bc-b971-53be0e9a6ff4))
+  (gr_poly
+    (pts
+      (xy 155.94075 67.202412)
+      (xy 155.863693 67.202412)
+      (xy 155.863693 67.125355)
+      (xy 155.94075 67.125355)
+    ) (layer "B.SilkS") (width 0) (fill solid) (tstamp f0e1c089-c805-4c36-a781-0522715b0167))
   (gr_poly
     (pts
       (xy 145.178882 74.753159)
@@ -50977,7 +50977,7 @@
       (xy 94.950397 107.659774)
     ) (layer "B.Mask") (width 0) (fill solid) (tstamp 58a63051-48b9-4c10-9b2c-7a2ccd6cc985))
   (gr_circle (center 147.319999 51.828999) (end 149.859999 51.828999) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 256e0a62-8fb7-4627-997d-73a62ec933ee))
-  (gr_text "v03" (at 208.877118 128.021104) (layer "B.Cu") (tstamp 5263f325-389b-42ab-a32b-940369603a19)
+  (gr_text "v04" (at 208.877118 128.021104) (layer "B.Cu") (tstamp 5263f325-389b-42ab-a32b-940369603a19)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_text "aerospacevillage.org" (at 136.98155 62.953042) (layer "B.SilkS") (tstamp 0956e0db-eecd-4e7c-b9a2-15369c042aa1)
@@ -51006,6 +51006,9 @@
   )
   (gr_text "SAO Enhancements" (at 105.850122 93.225582) (layer "B.SilkS") (tstamp e7574b7f-918c-4092-b423-146ea3b3b8fb)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
+  (gr_text "®" (at 100.211407 85.138733) (layer "B.Mask") (tstamp bfe587c3-599b-43a0-925f-0e6550c42540)
+    (effects (font (size 1 1) (thickness 0.25)) (justify mirror))
   )
 
   (segment (start 87.97052 124.963928) (end 87.97052 119.463928) (width 0.254) (layer "B.Cu") (net 1) (tstamp 414c725c-3e31-4a60-9510-6dc322701b9b))
