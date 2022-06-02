@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "(6.0.4-0)"
     },
-    "CreationDate": "2022-05-26T17:50:35-04:00"
+    "CreationDate": "2022-06-02T17:12:03-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "BaseBadge",
       "GUID": "42617365-4261-4646-9765-2e6b69636164",
-      "Revision": "v03"
+      "Revision": "v04"
     },
     "Size": {
       "X": 130.0002,
