@@ -1,0 +1,29 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.99.0-1934-gfe17dca71f)*%
+%TF.CreationDate,2022-06-18T07:02:21-05:00*%
+%TF.ProjectId,jwtelescope,6a777465-6c65-4736-936f-70652e6b6963,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.99.0-1934-gfe17dca71f)) date 2022-06-18 07:02:21*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10R,1.700000X1.700000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11O,1.700000X1.700000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X99099999Y-42699999D03*
+D11*
+X99099999Y-45239999D03*
+X101639999Y-42699999D03*
+X101639999Y-45239999D03*
+X104179999Y-42699999D03*
+X104179999Y-45239999D03*
+M02*
