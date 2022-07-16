@@ -1,4 +1,4 @@
-20199065923654611
+20208983505863791
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,13 @@ audio belton reverb
 0
 7
 7
+Base_Library
+19-213_Y2C-CO2R2L_3T(CY)
+
+
+0
+2
+2
 Base_Library
 APTR3216-VFX
 
@@ -85722,6 +85729,20 @@ FSMCTTR
 4
 4
 aerospace_badge
+NCD0805W2
+
+
+0
+2
+2
+aerospace_badge
+SMT_Tooling_hole
+
+
+0
+0
+0
+aerospace_badge
 SOT-23-NPN
 SOT-23, Standard
 SOT-23
@@ -85764,8 +85785,22 @@ attiny84
 14
 14
 aerospace_badge
+bcbp_badge
+Converted using: svg2mod -i bcbp_badge.svg
+svg2mod
+0
+0
+0
+aerospace_badge
 bcbp_example_poc
 Converted using: svg2mod -i bcbp_example_poc.svg
+svg2mod
+0
+0
+0
+aerospace_badge
+defcon_30_logo
+Converted using: svg2mod -p .1 -i defcon_30_logo.svg
 svg2mod
 0
 0
@@ -85819,3 +85854,10 @@ switch_JS202011SCQN
 0
 6
 3
+aerospace_badge
+warning
+Converted using: svg2mod -i warning.svg
+svg2mod
+0
+0
+0
