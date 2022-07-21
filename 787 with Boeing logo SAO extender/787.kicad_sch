@@ -686,19 +686,19 @@
       (reference "#PWR09") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/5443975d-1fae-4a36-8916-57698a04ed8a"
-      (reference "D1") (unit 1) (value "LED") (footprint "")
+      (reference "D1") (unit 1) (value "LED") (footprint "sunled:XZMYK45WT-9")
     )
     (path "/4cf3f46c-87e0-47af-8572-018e295392df"
-      (reference "J1") (unit 1) (value "Conn_02x03_Counter_Clockwise") (footprint "")
+      (reference "J1") (unit 1) (value "Conn_02x03_Counter_Clockwise") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical")
     )
     (path "/004d038c-5dfd-4a2f-beb0-75d73bd7c643"
-      (reference "J2") (unit 1) (value "Conn_02x03_Counter_Clockwise") (footprint "")
+      (reference "J2") (unit 1) (value "Conn_02x03_Counter_Clockwise") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical")
     )
     (path "/5b136eca-5cfc-4e9d-89dc-68ea1d44b595"
-      (reference "J3") (unit 1) (value "Conn_02x03_Counter_Clockwise") (footprint "")
+      (reference "J3") (unit 1) (value "Conn_02x03_Counter_Clockwise") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical")
     )
     (path "/4e259d6f-7016-4811-85ec-9a543f366ac5"
-      (reference "R1") (unit 1) (value "R") (footprint "")
+      (reference "R1") (unit 1) (value "R") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
   )
 )
