@@ -295,7 +295,7 @@
 
   (no_connect (at 118.11 82.55) (uuid 0b13c4e1-c39b-4b32-b3b1-33d7806edb84))
   (no_connect (at 105.41 87.63) (uuid 21ecdf01-6b6d-4be0-9fa1-0eba931db91b))
-  (no_connect (at 118.11 87.63) (uuid 21ecdf01-6b6d-4be0-9fa1-0eba931db91b))
+  (no_connect (at 118.11 87.63) (uuid 21ecdf01-6b6d-4be0-9fa1-0eba931db91c))
   (no_connect (at 118.11 85.09) (uuid ec1ec2eb-7f0d-4bbd-b865-fa26a305be4d))
 
   (wire (pts (xy 148.59 68.58) (xy 154.94 68.58))
@@ -529,19 +529,19 @@
       (reference "#PWR04") (unit 1) (value "GND") (footprint "")
     )
     (path "/b376f188-0907-42c6-817e-ebf9d49a58bb"
-      (reference "D1") (unit 1) (value "LED") (footprint "")
+      (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/57d8d705-f080-4eb9-a04f-8255ecb8d445"
-      (reference "D2") (unit 1) (value "LED") (footprint "")
+      (reference "D2") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/bd0fc8ee-c22d-4133-8e6a-9fdd47c9d8c1"
-      (reference "J1") (unit 1) (value "Conn_02x03_Counter_Clockwise") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical")
+      (reference "J1") (unit 1) (value "Conn_02x03_Counter_Clockwise") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical")
     )
     (path "/e0e80cb0-808c-4d1e-88b5-53b85dedaf04"
-      (reference "R1") (unit 1) (value "R") (footprint "")
+      (reference "R1") (unit 1) (value "R") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
     (path "/95eed00c-e8d4-437d-a0b2-c05cbcc6ece7"
-      (reference "R2") (unit 1) (value "R") (footprint "")
+      (reference "R2") (unit 1) (value "R") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
   )
 )
